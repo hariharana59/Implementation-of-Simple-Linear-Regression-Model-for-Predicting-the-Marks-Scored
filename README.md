@@ -2,7 +2,8 @@
 
 
 ```
-Program to implement the simple linear regression model for predicting the marks scored.
+Program to implement the simple linear regression
+model for predicting the marks scored
 Developed by: Hariharan A
 RegisterNumber: 212223110013
 ```
@@ -17,12 +18,19 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 Step 1 : Start
+
 Step 2 : Import the standard Libraries.
+
 Step 3 : Set variables for assigning dataset values.
+
 Step 4 : Import linear regression from sklearn.
+
 Step 5 : Assign the points for representing in the graph.
+
 Step 6 : Predict the regression for marks by using the representation of the graph.
+
 Step 7 : Compare the graphs and hence we obtained the linear regression for the given datas. 
+
 Step 8 : Stop
 
 ## Program:
